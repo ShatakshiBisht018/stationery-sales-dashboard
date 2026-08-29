@@ -1,0 +1,101 @@
+Sale ID,Date,Brand,Product,Category,Region,Retailer,Units Sold,Unit Price (INR),Discount (%),Revenue (INR),Outlier Flag
+S0024,2026-01-05,Luxor,Sketch Pens Pack,Art & Craft,North,Paper Plus,88,95,2,8193,No
+S0031,2026-01-09,Faber-Castell,Gel Pens Set,Writing,East,Stationery Hub,141,220,2,30400,No
+S0054,2026-01-12,Doms,Sharpener Set,Office Supplies,North,Paper Plus,43,20,5,817,No
+S0009,2026-01-12,Faber-Castell,Gel Pens Set,Writing,South,Paper Plus,30,220,2,6468,No
+S0042,2026-01-15,Classmate,Long Notebook,Paper Products,North,BookNest,132,85,10,10098,No
+S0014,2026-01-17,Doms,Sharpener Set,Office Supplies,South,BookNest,193,20,5,3667,No
+S0037,2026-01-20,Parker,Ball Pen Premium,Writing,West,BookNest,35,450,0,15750,No
+S0045,2026-01-21,Classmate,Practical Notebook,Paper Products,West,BookNest,154,95,10,13167,No
+S0002,2026-01-23,Camlin,Watercolor Pack,Art & Craft,Central,Office Mart,18,160,0,2880,No
+S0006,2026-01-27,Faber-Castell,Markers Set,Art & Craft,North,Office Mart,34,280,5,9044,No
+S0022,2026-01-28,Nataraj,Crayons Pack,Art & Craft,East,BookNest,165,70,2,11319,No
+S0065,2026-01-30,Luxor,Marker Set,Art & Craft,East,Campus Store,158,130,5,19513,No
+S0071,2026-02-02,Cello,Stapler,Office Supplies,South,Office Mart,180,90,7,15066,No
+S0057,2026-02-02,Nataraj,Color Pencils 24pk,Art & Craft,North,Paper Plus,103,180,0,18540,No
+S0051,2026-02-04,Cello,Ball Pen Pack,Writing,East,Stationery Hub,37,40,10,1332,No
+S0096,2026-02-09,Classmate,Practical Notebook,Paper Products,South,Campus Store,131,95,0,12445,No
+S0018,2026-02-09,Classmate,Notebook 172pg,Paper Products,South,Office Mart,162,60,0,9720,No
+S0060,2026-02-15,Doms,Pencil Box Set,Writing,East,Office Mart,181,45,2,7982,No
+S0092,2026-02-16,Nataraj,Color Pencils 24pk,Art & Craft,North,Paper Plus,107,180,5,18297,No
+S0041,2026-02-18,Parker,Ball Pen Premium,Writing,East,Campus Store,24,450,10,9720,No
+S0046,2026-02-22,Luxor,Ball Pen Box,Writing,East,Campus Store,77,50,7,3580,No
+S0073,2026-02-23,Cello,Glue Stick Pack,Office Supplies,West,BookNest,165,35,5,5486,No
+S0032,2026-02-24,Cello,Correction Pen,Office Supplies,Central,Campus Store,195,25,10,4388,No
+S0030,2026-02-26,Faber-Castell,Highlighters Pack,Office Supplies,North,Stationery Hub,191,150,0,28650,No
+S0017,2026-02-26,Doms,Sharpener Set,Office Supplies,South,BookNest,136,20,0,2720,No
+S0089,2026-02-26,Faber-Castell,Sketch Set,Art & Craft,East,Office Mart,134,400,0,53600,Yes
+S0079,2026-02-26,Camlin,Sketch Pens 12pk,Art & Craft,South,BookNest,128,75,0,9600,No
+S0029,2026-02-27,Camlin,Poster Colors,Art & Craft,North,Paper Plus,15,120,10,1620,No
+S0003,2026-03-01,Camlin,Poster Colors,Art & Craft,Central,BookNest,16,120,10,1728,No
+S0049,2026-03-04,Luxor,Marker Set,Art & Craft,East,Paper Plus,50,130,7,6045,No
+S0007,2026-03-09,Luxor,Permanent Marker Pack,Writing,North,Office Mart,147,60,0,8820,No
+S0083,2026-03-12,Parker,Ball Pen Premium,Writing,West,Stationery Hub,192,450,5,82080,Yes
+S0010,2026-03-13,Camlin,Sketch Pens 12pk,Art & Craft,West,Paper Plus,51,75,5,3634,No
+S0052,2026-03-14,Nataraj,Sharpener Pack,Office Supplies,Central,Campus Store,193,15,5,2750,No
+S0098,2026-03-21,Camlin,Poster Colors,Art & Craft,North,BookNest,16,120,5,1824,No
+S0093,2026-03-25,Faber-Castell,Sketch Set,Art & Craft,East,Office Mart,81,400,7,30132,No
+S0084,2026-03-27,Faber-Castell,Markers Set,Art & Craft,East,BookNest,30,280,2,8232,No
+S0064,2026-03-31,Camlin,Geometry Box,Office Supplies,Central,Office Mart,183,140,10,23058,No
+S0088,2026-04-01,Parker,Fountain Pen,Writing,East,Office Mart,117,650,10,68445,Yes
+S0034,2026-04-01,Camlin,Sketch Pens 12pk,Art & Craft,West,Office Mart,129,75,0,9675,No
+S0085,2026-04-09,Nataraj,Eraser Pack,Office Supplies,South,Campus Store,26,20,7,484,No
+S0015,2026-04-12,Faber-Castell,Sketch Set,Art & Craft,West,Campus Store,77,400,2,30184,No
+S0028,2026-04-13,Faber-Castell,Markers Set,Art & Craft,East,Office Mart,142,280,7,36977,No
+S0039,2026-04-13,Parker,Ball Pen Premium,Writing,North,Campus Store,107,450,0,48150,Yes
+S0044,2026-04-14,Camlin,Poster Colors,Art & Craft,North,BookNest,73,120,10,7884,No
+S0035,2026-04-14,Camlin,Oil Pastels 25pk,Art & Craft,East,Stationery Hub,73,90,2,6439,No
+S0004,2026-04-18,Faber-Castell,Highlighters Pack,Office Supplies,South,Office Mart,160,150,5,22800,No
+S0069,2026-04-21,Faber-Castell,Markers Set,Art & Craft,North,Paper Plus,169,280,5,44954,Yes
+S0021,2026-04-22,Camlin,Geometry Box,Office Supplies,South,Office Mart,10,140,5,1330,No
+S0074,2026-04-24,Parker,Roller Pen,Writing,South,BookNest,131,500,2,64190,Yes
+S0036,2026-04-25,Faber-Castell,Highlighters Pack,Office Supplies,South,Office Mart,56,150,5,7980,No
+S0082,2026-04-26,Nataraj,Color Pencils 24pk,Art & Craft,East,Campus Store,173,180,5,29583,No
+S0080,2026-04-27,Faber-Castell,Gel Pens Set,Writing,South,Office Mart,180,220,10,35640,No
+S0047,2026-04-28,Nataraj,Sharpener Pack,Office Supplies,East,Stationery Hub,12,15,7,167,No
+S0012,2026-04-29,Faber-Castell,Color Pencils Premium,Art & Craft,West,Paper Plus,173,350,10,54495,Yes
+S0094,2026-05-01,Cello,Ball Pen Pack,Writing,North,BookNest,23,40,5,874,No
+S0078,2026-05-07,Faber-Castell,Sketch Set,Art & Craft,West,Campus Store,47,400,0,18800,No
+S0070,2026-05-10,Camlin,Geometry Box,Office Supplies,East,Office Mart,93,140,7,12109,No
+S0053,2026-05-10,Faber-Castell,Markers Set,Art & Craft,West,Paper Plus,23,280,0,6440,No
+S0067,2026-05-11,Doms,Oil Pastels 12pk,Art & Craft,North,Office Mart,157,65,2,10001,No
+S0043,2026-05-11,Nataraj,HB Pencil Pack,Writing,North,Campus Store,27,30,10,729,No
+S0075,2026-05-12,Camlin,Geometry Box,Office Supplies,Central,Paper Plus,33,140,2,4528,No
+S0027,2026-05-16,Nataraj,Sharpener Pack,Office Supplies,Central,Office Mart,64,15,10,864,No
+S0048,2026-05-18,Camlin,Oil Pastels 25pk,Art & Craft,South,BookNest,77,90,2,6791,No
+S0016,2026-05-18,Faber-Castell,Highlighters Pack,Office Supplies,East,BookNest,119,150,10,16065,No
+S0086,2026-05-19,Doms,Sharpener Set,Office Supplies,West,Office Mart,25,20,2,490,No
+S0056,2026-05-20,Camlin,Poster Colors,Art & Craft,North,Paper Plus,159,120,10,17172,No
+S0008,2026-05-22,Doms,Pencil Box Set,Writing,East,BookNest,102,45,10,4131,No
+S0055,2026-05-22,Nataraj,Color Pencils 24pk,Art & Craft,West,BookNest,12,180,0,2160,No
+S0025,2026-05-26,Classmate,Notebook 300pg,Paper Products,North,Stationery Hub,197,110,7,20153,No
+S0072,2026-05-26,Nataraj,Crayons Pack,Art & Craft,East,Office Mart,150,70,0,10500,No
+S0091,2026-06-01,Classmate,Diary,Paper Products,Central,Stationery Hub,31,150,7,4324,No
+S0019,2026-06-02,Doms,Water Color Pack,Art & Craft,West,BookNest,74,85,10,5661,No
+S0066,2026-06-02,Classmate,Notebook 172pg,Paper Products,West,Paper Plus,196,60,5,11172,No
+S0081,2026-06-06,Luxor,Sketch Pens Pack,Art & Craft,Central,Office Mart,150,95,7,13252,No
+S0077,2026-06-06,Faber-Castell,Sketch Set,Art & Craft,North,Office Mart,116,400,10,41760,Yes
+S0063,2026-06-18,Faber-Castell,Gel Pens Set,Writing,South,Office Mart,94,220,5,19646,No
+S0090,2026-06-21,Doms,Sharpener Set,Office Supplies,West,Campus Store,129,20,2,2528,No
+S0011,2026-06-21,Luxor,Highlighter Pack,Office Supplies,East,Stationery Hub,165,80,2,12936,No
+S0020,2026-06-24,Classmate,Notebook 172pg,Paper Products,Central,Paper Plus,174,60,5,9918,No
+S0058,2026-06-24,Luxor,Highlighter Pack,Office Supplies,South,Stationery Hub,100,80,10,7200,No
+S0100,2026-06-25,Camlin,Geometry Box,Office Supplies,Central,Stationery Hub,154,140,0,21560,No
+S0005,2026-06-28,Classmate,Notebook 300pg,Paper Products,West,Paper Plus,81,110,2,8732,No
+S0097,2026-06-29,Faber-Castell,Sketch Set,Art & Craft,East,Paper Plus,52,400,10,18720,No
+S0068,2026-07-01,Cello,Ball Pen Pack,Writing,West,Stationery Hub,143,40,10,5148,No
+S0099,2026-07-03,Doms,Water Color Pack,Art & Craft,South,Stationery Hub,161,85,2,13411,No
+S0001,2026-07-09,Camlin,Oil Pastels 25pk,Art & Craft,East,Campus Store,67,90,2,5909,No
+S0059,2026-07-11,Doms,Oil Pastels 12pk,Art & Craft,South,Campus Store,51,65,2,3249,No
+S0038,2026-07-12,Classmate,Notebook 172pg,Paper Products,South,Campus Store,114,60,7,6361,No
+S0023,2026-07-15,Nataraj,Sharpener Pack,Office Supplies,South,BookNest,145,15,0,2175,No
+S0026,2026-07-16,Camlin,Watercolor Pack,Art & Craft,South,Campus Store,178,160,7,26486,No
+S0013,2026-07-16,Faber-Castell,Markers Set,Art & Craft,North,Campus Store,18,280,5,4788,No
+S0087,2026-07-17,Doms,Water Color Pack,Art & Craft,Central,Stationery Hub,157,85,7,12411,No
+S0095,2026-07-19,Faber-Castell,Gel Pens Set,Writing,North,Stationery Hub,73,220,2,15739,No
+S0040,2026-07-20,Doms,Sharpener Set,Office Supplies,West,Paper Plus,118,20,10,2124,No
+S0033,2026-07-20,Parker,Ball Pen Premium,Writing,West,Office Mart,58,450,0,26100,No
+S0061,2026-07-21,Cello,Gel Pen Pack,Writing,North,Office Mart,19,60,7,1060,No
+S0076,2026-07-26,Cello,Gel Pen Pack,Writing,South,Campus Store,16,60,0,960,No
+S0050,2026-07-26,Cello,Stapler,Office Supplies,Central,Stationery Hub,180,90,10,14580,No
+S0062,2026-07-29,Faber-Castell,Color Pencils Premium,Art & Craft,West,Paper Plus,88,350,2,30184,No
