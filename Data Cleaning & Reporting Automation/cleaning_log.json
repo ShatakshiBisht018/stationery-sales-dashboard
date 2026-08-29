@@ -1,0 +1,52 @@
+[
+  {
+    "timestamp": "2026-08-25T19:28:08",
+    "action": "LOAD",
+    "detail": "Loaded 100 rows, 11 columns from /mnt/user-data/uploads/stationery_sales_dataset.csv"
+  },
+  {
+    "timestamp": "2026-08-25T19:28:08",
+    "action": "DATE_PARSE",
+    "detail": "'Date': all dates parsed successfully"
+  },
+  {
+    "timestamp": "2026-08-25T19:28:08",
+    "action": "DUPLICATES",
+    "detail": "No fully duplicate rows found"
+  },
+  {
+    "timestamp": "2026-08-25T19:28:08",
+    "action": "DUPLICATES",
+    "detail": "No duplicate 'Sale ID' values found"
+  },
+  {
+    "timestamp": "2026-08-25T19:28:08",
+    "action": "RANGE_CHECK",
+    "detail": "'Units Sold': all values within expected range [0, 10000]"
+  },
+  {
+    "timestamp": "2026-08-25T19:28:08",
+    "action": "RANGE_CHECK",
+    "detail": "'Unit Price (INR)': all values within expected range [0, 100000]"
+  },
+  {
+    "timestamp": "2026-08-25T19:28:08",
+    "action": "RANGE_CHECK",
+    "detail": "'Discount (%)': all values within expected range [0, 100]"
+  },
+  {
+    "timestamp": "2026-08-25T19:28:08",
+    "action": "REVENUE_RECONCILE",
+    "detail": "All Revenue values consistent with Units x Price x (1-Discount)"
+  },
+  {
+    "timestamp": "2026-08-25T19:28:08",
+    "action": "OUTLIERS",
+    "detail": "'Revenue (INR)': 8 statistical outlier(s) flagged (IQR method), not removed"
+  },
+  {
+    "timestamp": "2026-08-25T19:28:08",
+    "action": "SAVE",
+    "detail": "Cleaned dataset written to /home/claude/pipeline_out/cleaned_data.csv (100 rows, started from 100)"
+  }
+]
